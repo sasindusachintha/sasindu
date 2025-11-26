@@ -79,19 +79,6 @@ I enjoy turning ideas into working software systems and constantly improving my 
 
 ---
 
-## 📈 GitHub Stats & Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak-stats">
-</p>
-
----
-
 ## 🌟 Goals
 - Become a **Professional Software Engineer**
 - Master **C++**, **Java**, SQL, and full software engineering fundamentals  
@@ -103,7 +90,7 @@ I enjoy turning ideas into working software systems and constantly improving my 
 ## 📫 Contact Me  
 📧 **Email:** **sasindusachintha1234@gmail.com**  
 🌍 **Portfolio (Coming Soon)**  
-🔗 **GitHub:** github.com/sasindu 
+🔗 **GitHub:** github.com/sasindusachintha
 
 ---
 
